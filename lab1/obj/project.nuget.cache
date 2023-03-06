@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "47UaPFTAQDx/HUxfBOXJ7/zndQsXu4z7SqncFAa7UFveAxLCTTJj8RtnEua0N3pq5DpRfUO4rJLEtCCY/+Od0A==",
+  "dgSpecHash": "nneUgEXSWFprEQND1EVc0kubikHtgj/VW7Mw/IQqgnOJs3jggaFQvm+QTBJ2yM1QsSqg+YIgaQnf7GuuOXD5XQ==",
   "success": true,
   "projectFilePath": "F:\\inzynieria prog\\lab1\\lab1\\lab1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\w64894\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\w64894\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\w64894\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\w64894\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
